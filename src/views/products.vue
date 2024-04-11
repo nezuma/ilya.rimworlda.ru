@@ -13,12 +13,12 @@ export default {
     data() {
         return {
             store: [
-                {id: 1, image: '../src/assets/product1.png', name: "Костюм Песочника", description: 'Описание товара 1', price: 10 },
-                {id: 2, image: '../src/assets/product2.jpg', name: "Костюм Кролика", description: 'Описание товара 2', price: 10 },
-                {id: 3, image: '../src/assets/product3.jpg', name: "Костюм Санты", description: 'Описание товара 3', price: 10 },
-                {id: 4, image: '../src/assets/product4.jpg', name: "Бумеранги Кролика", description: 'Описание товара 4', price: 10 },
-                {id: 5, image: '../src/assets/product5.jpg', name: "Посох Джека", description: 'Описание товара 5', price: 10 },
-                {id: 6, image: '../src/assets/product6.jpg', name: "Набор Песочника", description: 'Описание товара 6', price: 10 }
+                {id: 1, image: '../assets/product1.png', name: "Костюм Песочника", description: 'Описание товара 1', price: 10 },
+                {id: 2, image: '../assets/product2.jpg', name: "Костюм Кролика", description: 'Описание товара 2', price: 10 },
+                {id: 3, image: '../assets/product3.jpg', name: "Костюм Санты", description: 'Описание товара 3', price: 10 },
+                {id: 4, image: '../assets/product4.jpg', name: "Бумеранги Кролика", description: 'Описание товара 4', price: 10 },
+                {id: 5, image: '../assets/product5.jpg', name: "Посох Джека", description: 'Описание товара 5', price: 10 },
+                {id: 6, image: '../assets/product6.jpg', name: "Набор Песочника", description: 'Описание товара 6', price: 10 }
             ],
         }
     },
